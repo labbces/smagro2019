@@ -24,4 +24,4 @@ Now that we have a hint about the function of our transcript, let try to pinpoin
 For this we will use again the desconoidico.nuc.fa sequence, bvut will make a blastn search instead, again the chromosome sequences of Arabidopsisthaliana. Aftyer getting a general idea about the location of the transcript in the genome, use Splign to refine that
 https://www.ncbi.nlm.nih.gov/sutils/splign/splign.cgi
 
-Use the Translate tool at Expasy https://web.expasy.org/translate/ to identify the encoded peptide. How do you do that? Using Pfam (https://pfam.xfam.org) ntify putative protein domains.
+Use the Translate tool at Expasy https://web.expasy.org/translate/ to identify the encoded peptide. How do you do that? Using Pfam (https://pfam.xfam.org) to identify putative protein domains.
